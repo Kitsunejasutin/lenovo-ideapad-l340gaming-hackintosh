@@ -9,15 +9,15 @@ IdeaPad L340-15IRH Gaming specification:
 | CPU | Intel Core i5 9300H | |
 | Graphics | Intel UHD Graphics 630 | Disabled GTX 1050 |
 | Display | 15.6in FullHD | |
-| RAM | 16GB DDR4 | Upgraded from 8GB DDR4 |
-| Wifi| BCM94352Z - DW1560 | Default Intel Wifi does't work. |
-| NVME SSD| Samsung SSD 970 EVO Plus 250GB | No SSD default|
-| SATA Disk | WDC WD10SPZX-24Z10 1TB | |
+| RAM | 8GB DDR4 | |
+| Wifi| Intel Wireless-AC 9560 160mhz | |
+| NVME SSD| Intel SSD 660p Series 512GB | |
+| SATA Disk | None | |
 | USB | 2 USB 3.1 + 1 USB 3.1 Type C | |
 | Trackpad | Synaptics SYNA2B52 |
 | Audio | Realtek ALC 257 |
-| BIOS version| BGCN28WW - BGCN29WW |
-| OSX version| Catalina 10.15.5 |
+| BIOS version| BGCN33WW |
+| OSX version| Big Sur 11 |
 
 ## Not working?
 
