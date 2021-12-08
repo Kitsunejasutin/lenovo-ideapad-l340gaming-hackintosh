@@ -16,7 +16,7 @@ IdeaPad L340-15IRH Gaming specification:
 | NVME SSD| Intel SSD 660p Series 512GB | |
 | SATA Disk | None | |
 | USB | 2 USB 3.1 + 1 USB 3.1 Type C | |
-| Trackpad | Synaptics SYNA2B52 |
+| Trackpad | Synaptics SYNA2B52 | Not Working atm |
 | Audio | Realtek ALC 257 |
 | BIOS version| BGCN33WW |
 | OSX version| Big Sur 11 |
@@ -25,5 +25,6 @@ IdeaPad L340-15IRH Gaming specification:
 
 - GTX 1050 (Disabled)
 - HDMI Port (it was connected with GTX 1050)
+- More features that I didn't check yet
 
-© [khanhtran-cse](https://github.com/khanhtran-cse) for his [Readme](https://github.com/khanhtran-cse/lenovo-ideapad-l340-hackintosh)
+© [khanhtran-cse](https://github.com/khanhtran-cse) for his [Readme](https://github.com/khanhtran-cse/lenovo-ideapad-l340-hackintosh) and some SSDTs
