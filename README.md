@@ -1,5 +1,7 @@
 # # Lenovo Ideapad L340 Gaming Hackintosh
 
+![Cover](/Docs/cover.png)
+
 ## System Specification
 
 IdeaPad L340-15IRH Gaming specification:
