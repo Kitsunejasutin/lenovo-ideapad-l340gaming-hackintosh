@@ -16,7 +16,7 @@ IdeaPad L340-15IRH Gaming specification:
 | NVME SSD| Intel SSD 660p Series 512GB | |
 | SATA Disk | None | |
 | USB | 2 USB 3.1 + 1 USB 3.1 Type C | |
-| Trackpad | Synaptics SYNA2B52 | Not Working atm |
+| Trackpad | Synaptics SYNA2B52 | |
 | Audio | Realtek ALC 257 |
 | BIOS version| BGCN33WW |
 | OSX version| Big Sur 11 |
