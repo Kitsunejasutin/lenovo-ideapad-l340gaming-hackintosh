@@ -1,6 +1,6 @@
 # # Lenovo Ideapad L340 Gaming Hackintosh
 
-![Cover](/Docs/cover.png)
+![Cover](/Docs/cover-12.3.png)
 
 ## System Specification
 
@@ -20,7 +20,7 @@ IdeaPad L340-15IRH Gaming specification:
 | Trackpad | Synaptics SYNA2B52 | |
 | Audio | Realtek ALC 257 |
 | BIOS version| BGCN33WW |
-| OSX version| Monterey 12.1 |
+| OSX version| Monterey 12.3 |
 
 ## Not working?
 
