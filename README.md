@@ -1,4 +1,4 @@
-# # Lenovo Ideapad L340 Gaming Hackintosh
+# Lenovo Ideapad L340 Gaming Hackintosh
 
 ![Cover](/Docs/cover-13.4.1.png)
 
