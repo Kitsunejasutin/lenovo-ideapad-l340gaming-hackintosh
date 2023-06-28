@@ -13,7 +13,7 @@ IdeaPad L340-15IRH Gaming specification:
 | Display | 15.6in FullHD | |
 | RAM | 8GB DDR4 | |
 | Wifi| Intel Wireless-AC 9560 160mhz | |
-| Bluetooth | BCM_4350C2 | Working on Big Sur but broken in Monterey |
+| Bluetooth | BCM_4350C2 | Working on Big Sur but broken in Monterey & Ventura |
 | NVME SSD| Intel SSD 660p Series 512GB | |
 | SATA Disk | None | |
 | USB | 2 USB 3.1 + 1 USB 3.1 Type C | |
