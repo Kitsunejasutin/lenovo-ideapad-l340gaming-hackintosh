@@ -1,6 +1,6 @@
 # # Lenovo Ideapad L340 Gaming Hackintosh
 
-![Cover](/Docs/cover-12.3.png)
+![Cover](/Docs/cover-13.4.1.png)
 
 ## System Specification
 
