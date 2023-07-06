@@ -20,7 +20,7 @@ IdeaPad L340-15IRH Gaming specification:
 | Trackpad | Synaptics SYNA2B52 | |
 | Audio | Realtek ALC 257 |
 | BIOS version| BGCN33WW |
-| OSX version| Monterey 12.3 |
+| OSX version| Monterey 13.4.1 |
 
 ## Not working?
 
